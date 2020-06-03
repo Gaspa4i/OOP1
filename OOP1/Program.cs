@@ -83,7 +83,6 @@ namespace OOP1
             Console.WriteLine("\n Нажмите на Enter, чтобы продолжить");
             Console.ReadLine();
 
-
             Console.WriteLine("            Зоомагазин");
             Console.Write("                 "); Console.WriteLine((char)8595);
             petShop petShop1 = new petShop();
